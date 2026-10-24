@@ -1,0 +1,146 @@
+{
+  "name": "Loostore",
+  "format": "Looscid app manifest keys (see os/APPS.md in Looscid), as JSON. Unknown keys are ignored. url is where the app opens; live is false when there is no live site yet and url is the source code.",
+  "apps": [
+    {
+      "id": "insomniaos",
+      "name": "Insomnia OS",
+      "version": "1.0",
+      "category": "Wellness",
+      "summary": "A cozy retro desktop for 4 AM, with a sleep soundscape, Sheep.exe and a starfield.",
+      "url": "https://2three1y.github.io/insomniaos/",
+      "source": "https://github.com/2three1y/insomniaos",
+      "live": true
+    },
+    {
+      "id": "nexos",
+      "name": "NexOS",
+      "version": "1.0",
+      "category": "System",
+      "summary": "The keyboard-first operating system that Looscid OS grew from, with a browser version you can try.",
+      "url": "https://2three1y.github.io/nexos/",
+      "source": "https://github.com/2three1y/nexos",
+      "live": true
+    },
+    {
+      "id": "memeprojects",
+      "name": "Memeprojects",
+      "version": "1.0",
+      "category": "Games",
+      "summary": "RU a Cheater and the Persona Evaluator, the unscientific chaos tools for when you are bored.",
+      "url": "https://2three1y.github.io/memeprojects/",
+      "source": "https://github.com/2three1y/memeprojects",
+      "live": true
+    },
+    {
+      "id": "easyconvert",
+      "name": "Easyconvert",
+      "version": "1.0",
+      "category": "Productivity",
+      "summary": "Read your Claude export and convert files to Word, PDF, HTML, Markdown, TXT, JSON or CSV. Nothing is uploaded.",
+      "url": "https://2three1y.github.io/Easyconvert/",
+      "source": "https://github.com/2three1y/Easyconvert",
+      "live": true
+    },
+    {
+      "id": "lyricfinder",
+      "name": "Lyric Finder",
+      "version": "1.0",
+      "category": "Music",
+      "summary": "Find a song's lyrics by title and artist.",
+      "url": "https://2three1y.github.io/lyricfinder/",
+      "source": "https://github.com/2three1y/lyricfinder",
+      "live": true
+    },
+    {
+      "id": "soundvault",
+      "name": "Soundvault",
+      "version": "1.0",
+      "category": "Music",
+      "summary": "A searchable catalog of Soundpacks and audio for screen reader users.",
+      "url": "https://2three1y.github.io/soundvault/",
+      "source": "https://github.com/2three1y/soundvault",
+      "live": true
+    },
+    {
+      "id": "reactortoolbar",
+      "name": "Reactor Toolbar",
+      "version": "1.0",
+      "category": "Utilities",
+      "summary": "The super-reaction concept: browse thousands of reactions and pick one.",
+      "url": "https://2three1y.github.io/reactortoolbar/",
+      "source": "https://github.com/2three1y/reactortoolbar",
+      "live": true
+    },
+    {
+      "id": "myweb",
+      "name": "MyWEB",
+      "version": "1.0",
+      "category": "Utilities",
+      "summary": "The privacy console: download a tunnel config and look up a domain over encrypted DNS.",
+      "url": "https://2three1y.github.io/MyWEB/",
+      "source": "https://github.com/2three1y/MyWEB",
+      "live": true
+    },
+    {
+      "id": "agentsync",
+      "name": "Agentsync",
+      "version": "1.0",
+      "category": "Developer",
+      "summary": "A hub for local-first agent orchestration.",
+      "url": "https://2three1y.github.io/Agentsync/",
+      "source": "https://github.com/2three1y/Agentsync",
+      "live": true
+    },
+    {
+      "id": "vibework",
+      "name": "Vibework",
+      "version": "1.0",
+      "category": "Productivity",
+      "summary": "A field guide to the social web: big platforms, small communities, federated networks and niche places.",
+      "url": "https://vibework.pages.bu.app/",
+      "source": "https://github.com/2three1y/vibework",
+      "live": true
+    },
+    {
+      "id": "codetranslator",
+      "name": "Code Translator",
+      "version": "1.0",
+      "category": "Developer",
+      "summary": "Run JavaScript, HTML or SVG and read the output. Python is coming soon.",
+      "url": "https://github.com/2three1y/codetranslator",
+      "source": "https://github.com/2three1y/codetranslator",
+      "live": false
+    },
+    {
+      "id": "chaoticmodel",
+      "name": "chaoticmodel",
+      "version": "1.0",
+      "category": "Developer",
+      "summary": "A chaotic little model with three voices: Static, Null and Seg. Coming soon.",
+      "url": "https://github.com/2three1y/chaoticmodel",
+      "source": "https://github.com/2three1y/chaoticmodel",
+      "live": false
+    },
+    {
+      "id": "alexclassic",
+      "name": "Alex Classic",
+      "version": "1.0",
+      "category": "Utilities",
+      "summary": "Bringing back Alex, the Mac OS X Leopard voice, as an offline voice engine. Coming soon.",
+      "url": "https://github.com/2three1y/alexclassic",
+      "source": "https://github.com/2three1y/alexclassic",
+      "live": false
+    },
+    {
+      "id": "yapper",
+      "name": "Yapper",
+      "version": "1.0",
+      "category": "Utilities",
+      "summary": "Yapper, the social app by MystyDev, and its website.",
+      "url": "https://github.com/2three1y/yappersite",
+      "source": "https://github.com/2three1y/yappersite",
+      "live": false
+    }
+  ]
+}
